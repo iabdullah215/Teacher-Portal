@@ -1,6 +1,6 @@
 # Cpp Separation Of Interface
 
-The practice of organizing C++ code into separate header files, implementation files, and main files is commonly referred to as separation of interface and implementation. This concept is a fundamental aspect of modular programming and software engineering, aiming to improve code maintainability, readability, and reusability.
+The practice of organizing `C++` code into separate header files, implementation files, and main files is commonly referred to as separation of interface and implementation. This concept is a fundamental aspect of modular programming and software engineering, aiming to improve code maintainability, readability, and reusability.
 
 ## Key Terminology
 
